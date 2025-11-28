@@ -93,8 +93,7 @@ After execution, Orchestrator logs display:
 ---
 
 ## Screenshots
-<img width="3840" height="2160" alt="Screenshot 2025-11-21 212832" src="https://github.com/user-attachments/assets/918cb26e-3c36-490e-b045-28253817b104" />
-<img width="3840" height="2160" alt="Screenshot 2025-11-21 212858" src="https://github.com/user-attachments/assets/6738dbae-c922-4380-a25e-57be439f3eae" />
 
+<img width="1399" height="777" alt="image" src="https://github.com/user-attachments/assets/2ffbc8ce-e672-4d8d-8685-67d2e952c83c" />
 
 ---
